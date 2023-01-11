@@ -1,2 +1,2 @@
-# Tutorial 2: Building Lists And Navigation - Landmarks
+# Tutorial 3: Handling User Input - Landmarks
 Built following the official Swift UI tutorial.
